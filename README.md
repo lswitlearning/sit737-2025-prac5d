@@ -56,6 +56,6 @@ docker push australia-southeast1-docker.pkg.dev/sit737-25t1-lam-5dc5f78/sit737-2
 ```
 docker run -p 8081:3000 australia-southeast1-docker.pkg.dev/sit737-25t1-lam-5dc5f78/sit737-2025-prac5d/myapp
 ```
-7. Open your browser and go to:
+7. Open your browser and go to:  
 http://localhost:8081  
 If the app runs (showing "Hello, Docker!"), the deployment is successful.
